@@ -502,10 +502,10 @@ POST http://localhost:8083/api/v1/rides/request
   "riderId": "rider:1",
   "pickupLatitude": 12.9716,
   "pickupLongitude": 77.5946,
-  "pickupAddress": "MG Road, Bangalore",
+  "pickupAddress": "Bhubaneswar Kiit College",
   "dropLatitude": 12.9352,
   "dropLongitude": 77.6245,
-  "dropAddress": "Koramangala, Bangalore"
+  "dropAddress": "Bhubaneswar Airport"
 }
 ```
 
